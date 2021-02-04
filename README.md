@@ -14,11 +14,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="shanmu | Twitter" width="22px" src="https://twitter.com/shanmugaperum13" />][twitter]
+[<img align="left" alt="shanmu | LinkedIn" width="22px" src="https://www.linkedin.com/in/shanmuga-perumal-b67b00155/" />][linkedin]
+[<img align="left" alt="shanmu | Instagram" width="22px" src="https://www.instagram.com/shanmu_throttler/" />][instagram]
 
 <br />
 
@@ -44,33 +42,11 @@
 <br />
 <br />
 
----
 
-### 📺 Latest YouTube Videos
 
-<!-- YOUTUBE:START -->
-- [Top 20 Web Dev Videos You NEED to Watch! | STACKr News 2021 (January Week 4)](https://www.youtube.com/watch?v=GgVN0e0Trns)
-- [TypeScript Crash Course 2021 | The Basics From Scratch!](https://www.youtube.com/watch?v=wyO8RWl1ges)
-- [STACKr News 2021 (January Week 3) | Top Web Dev Videos You NEED to Watch!](https://www.youtube.com/watch?v=KcGYLhYDqRY)
-- [Awesome Micro-Interaction Input Character Limit Counter | HTML, CSS, JavaScript (2021)](https://www.youtube.com/watch?v=Byx1Gc3xTD8)
-- [STACKr News 2021 (January Week 2) | Top Web Dev Videos You NEED to Watch!](https://www.youtube.com/watch?v=RCIyQZp-THc)
-<!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://youtube.com/codestackr)
-
----
 
 ### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [How To Pass Application Tracking Systems (ATS) & Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://codestackr.com)
 
 ---
 
